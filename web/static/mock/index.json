@@ -1,0 +1,108 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+      "id": "0001",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/b1847cf91a34cf95402240a3f62aad77.jpg_750x200_26ea3527.jpg",
+      "alt": "夫子庙"
+    },                          
+    {
+      "id": "0002",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/3f47010a2312c32fff92fec3bcc99563.jpg_750x200_7ae774e5.jpg",
+      "alt": "海洋馆"
+    },
+    {
+      "id": "0003",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20195/0bb0f7431bc7c499fd724bcd9000a98d.jpg_750x200_a828e320.jpg",
+      "alt": "中华恐龙园"
+    }],
+    "iconList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+      "imgText": "景点门票"
+    },
+    {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+      "imgText": "一日游"
+    },
+    {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+      "imgText": "文化古迹"
+    },
+    {
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/97/02f5043b51b2102.png",
+      "imgText": "牛首山"
+    },
+    {
+      "id": "0005",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/94f7f5bf7b0f4d238dd68d718f102f40.png",
+      "imgText": "中山陵"
+    },
+    {
+      "id": "0006",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/b71c1387a921ccf9c6edc7e8def3da90.png",
+      "imgText": "红山森林动物园"
+    },
+    {
+      "id": "0007",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/f6dda1876c5950d83cc159c8fd522943.png",
+      "imgText": "总统府"
+    },
+    {
+      "id": "0008",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+      "imgText": "银杏湖乐园"
+    },
+    {
+      "id": "0009",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+      "imgText": "大报恩寺"
+    },
+    {
+      "id": "0010",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png",
+      "imgText": "南京海底世界"
+    }],
+    "recommendList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1511/ea/eaf1bdc38aed9e6690.img.jpg_200x200_3032bf56.jpg",
+      "title": "银杏湖乐园",
+      "desc": "江宁区"
+    },
+    {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1601/d4/d4f1a62140b9d93590.img.jpg_200x200_a1ff6094.jpg",
+      "title": "牛首山文化旅游区",
+      "desc": "江宁区"
+    },
+    {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/13/0cd5a9a57ae0d1b9b935ec604ce0f9bf.water.jpg_200x200_9b808f51.jpg",
+      "title": "南京海底世界",
+      "desc": "江宁区"
+    }],
+    "weekendList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/f1/ae9d4299b8aaea.jpg_r_640x214_0c555905.jpg",
+      "title": "南京必打卡",
+      "desc": "看尽王侯将相荣辱成败,六朝金粉潮起潮落"
+    },
+    {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/e1/cdbf56d837da59.jpg_r_640x214_105fc3f2.jpg",
+      "title": "民国情怀 国共风华",
+      "desc": "南京,一座历史文化名城,这片土地曾经经历的太多太多"
+    },
+    {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/f3/d51669250308cc.jpg_r_640x214_7a127cd0.jpg",
+      "title": "秦淮金粉里的南京",
+      "desc": "欣赏秦淮风光上独具特色的人文景观，夫子庙里深刻体会古代科举制度"
+    }]
+
+  }
+
+}
